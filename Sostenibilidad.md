@@ -1,7 +1,7 @@
 **¿Qué es la sostenibilidad y qué papel juega en el sector tecnológico actual?**
 
 
-La sostenibilidad es la capacidad de satisfacer nuestras necesidades del presente sin comprometer los recursos y el bienestar de la generaciones futuras. Tiene tres pilares fundamentales:
+La sostenibilidad es la capacidad de satisfacer nuestras necesidades del presente sin comprometer los recursos y el bienestar de la generaciones futuras.\ Tiene tres pilares fundamentales:
 <ul>
   <li>El ambiental</li>
   <li>El social</li>
