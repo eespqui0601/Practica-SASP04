@@ -6,13 +6,13 @@
   <li>El social</li>
   <li>El económico</li>
 </ul>
-
-La tecnología sostenible tiene un gran impacto en la preservación del medioambiente ya que podemos disminuir la demanda de recursos naturales, disminuir la generación de residuos y reducir las emisiones contaminantes.
-La tecnología esta cada vez más en entrelazada con nuestras vidas diarias. 
+<p>La tecnología sostenible tiene un gran impacto en la preservación del medioambiente ya que podemos disminuir la demanda de recursos naturales, disminuir la generación de residuos y reducir las emisiones contaminantes.
+La tecnología esta cada vez más en entrelazada con nuestras vidas diarias. </p>
 
 **¿Qué dimensiones abarca (ambiental, social, económica)?**
-La sostenibilidad ambiental en el sector tecnológico se consigue gracias a que gastamos menos recursos naturales y hacemos tecnología que consuma menos energía para asi ahorrar energía, además de tecnología que pueda ser reciclada facilmente.
-El lado negativo es que el proceso de creación de algunas tecnologías contamina bastante el medioambiente pero se esta trabajando en contaminar lo menos posible. 
+<p>La sostenibilidad ambiental en el sector tecnológico se consigue gracias a que gastamos menos recursos naturales y hacemos tecnología que consuma menos energía para asi ahorrar energía, además de tecnología que pueda ser reciclada facilmente.
+El lado negativo es que el proceso de creación de algunas tecnologías contamina bastante el medioambiente pero se esta trabajando en contaminar lo menos posible.</p>
+<p>La sosteniblidad social</p>
 
 **¿Qué son los aspectos ASG y por qué deben interesar a una empresa tecnológica?**
 
